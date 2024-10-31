@@ -1,9 +1,9 @@
 ## ToDo-лист
 
 #### Запуск
-1 - склонировать репозиторий
-2 - ```npm i```
-3 - ```npm run dev```
+1 - склонировать репозиторий<br>
+2 - ```npm i```<br>
+3 - ```npm run dev```<br>
 
 #### Стек: TS, MobX, React, Css Modules, Vite, Jest, React Testing Library.
 
