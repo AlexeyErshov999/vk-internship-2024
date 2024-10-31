@@ -1,6 +1,11 @@
-##ToDo-лист
+## ToDo-лист
 
-####Стек: TS, MobX, React, Css Modules, Vite, Jest, React Testing Library.
+#### Запуск
+1 - склонировать репозиторий
+2 - ```npm i```
+3 - ```npm run dev```
+
+#### Стек: TS, MobX, React, Css Modules, Vite, Jest, React Testing Library.
 
 Приложение ToDo-лист получает список записей с публичного API сервиса ```https://jsonplaceholder.typicode.com``` и сохраняет их в состоянии приложения.
 
