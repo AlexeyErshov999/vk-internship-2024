@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1730402038977" clover="3.2.0">
-  <project timestamp="1730402038978" name="All files">
-    <metrics statements="99" coveredstatements="98" conditionals="13" coveredconditionals="7" methods="6" coveredmethods="4" elements="118" coveredelements="109" complexity="0" loc="99" ncloc="99" packages="1" files="2" classes="2"/>
-    <file name="Button.tsx" path="C:\Users\Eaa04\Desktop\reactjs-vite-todolist\src\components\Button.tsx">
+<coverage generated="1730403551043" clover="3.2.0">
+  <project timestamp="1730403551043" name="All files">
+    <metrics statements="125" coveredstatements="124" conditionals="17" coveredconditionals="11" methods="7" coveredmethods="5" elements="149" coveredelements="140" complexity="0" loc="125" ncloc="125" packages="1" files="3" classes="3"/>
+    <file name="Button.tsx" path="C:\Users\Eaa04\Desktop\vk-internship-2024\src\components\Button.tsx">
       <metrics statements="21" coveredstatements="21" conditionals="8" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
@@ -26,7 +26,7 @@
       <line num="20" count="1" type="stmt"/>
       <line num="21" count="1" type="stmt"/>
     </file>
-    <file name="TodoItem.tsx" path="C:\Users\Eaa04\Desktop\reactjs-vite-todolist\src\components\TodoItem.tsx">
+    <file name="TodoItem.tsx" path="C:\Users\Eaa04\Desktop\vk-internship-2024\src\components\TodoItem.tsx">
       <metrics statements="78" coveredstatements="77" conditionals="5" coveredconditionals="4" methods="5" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
@@ -106,6 +106,35 @@
       <line num="76" count="4" type="stmt"/>
       <line num="77" count="1" type="stmt"/>
       <line num="78" count="1" type="stmt"/>
+    </file>
+    <file name="TodoList.tsx" path="C:\Users\Eaa04\Desktop\vk-internship-2024\src\components\TodoList.tsx">
+      <metrics statements="26" coveredstatements="26" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
